@@ -1,6 +1,6 @@
 import "./Content.css";
 import React from "react";
-import { Routes, Route } from "react-router-dom"; // Importe esses arquivos
+import { Routes, Route } from "react-router-dom";
  
 import Home from "../../views/examples/Home";
 import Param from "../../views/examples/Param";
