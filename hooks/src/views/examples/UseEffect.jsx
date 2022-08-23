@@ -47,7 +47,7 @@ const UseEffect = (props) => {
                 value={number}
                 onChange={e => setNumber(e.target.value)} />
             </div>
-            <SectionTitle title="Exercício #02" />
+            <SectionTitle title="Exercício #02...." />
             <div className="center">
                 <div>
                     <span className="text">Status: </span>
